@@ -1,8 +1,21 @@
-
-body{
-    background-color: cyan;
-}
-
 table{
-    border-style: solid;
+    width:100%;
+
 }
+table, th, td{
+    border: 2px solid #cecece;
+    border-collapse: collapse;
+    text-align: center;
+    table-layout: fixed;
+}
+.selected{
+    background-color: #f36f48;
+    font-weight:italic;
+    color:white
+}
+
+
+
+
+
+
