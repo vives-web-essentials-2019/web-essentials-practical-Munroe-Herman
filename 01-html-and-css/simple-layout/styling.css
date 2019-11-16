@@ -1,0 +1,8 @@
+body{
+    background-color: #00A0B0;
+}
+    
+ul{
+    display: grid;
+    display:inline-block;
+}

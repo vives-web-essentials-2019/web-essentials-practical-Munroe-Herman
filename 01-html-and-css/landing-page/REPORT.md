@@ -1,6 +1,6 @@
 # Report
 
-**Name**: <!-- TODO: fill in your full name here, firstname and lastname -->
+**Name**: <!--Munroe Herman -->
 
 ---
 
@@ -8,27 +8,27 @@
 
 **What is working and what is not?**
 
-<!-- TODO: Fill out this question -->
+<!-- Colour scheme of the background slightly differs from the example given -->
 
 **Was the assignment to hard or to easy? What was too hard or what was too easy**
 
-<!-- TODO: Fill out this question -->
+<!-- Took a bit of searching to figure out the best way to approach the problem-->
 
 **For what part of the assignment did you need to do some research? (for example Google search)**
 
-<!-- TODO: Fill out this question -->
+<!-- Colour gradrient for the background -->
 
 **How much time did you approximately spend on this assignment (excluding time of report)?**
 
-<!-- TODO: Fill out this question -->
+<!-- 2 hrs-->
 
 **Is there any code you copied from someone else or from the Internet? Provide the source here (author, website, ...). Also explain what you changed to the source code.**
 
-<!-- TODO: Fill out this question -->
+<!-- Used similar css construct as shown in class from Google demo. -->
 
 **Is there a piece of code that you are not satisfied with. Place it here and describe what you think is wrong with it.**
 
-<!-- TODO: Fill out this question -->
+<!-- not for this excercise -->
 
 ## Need to knows and remarks
 

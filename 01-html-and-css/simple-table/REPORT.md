@@ -1,6 +1,6 @@
 # Report
 
-**Name**: <!-- TODO: fill in your full name here, firstname and lastname -->
+**Name**: <!-- Munroe Herman-->
 
 ---
 
@@ -8,27 +8,27 @@
 
 **What is working and what is not?**
 
-<!-- TODO: Fill out this question -->
+<!-- all elements of the table work the way i wanted -->
 
 **Was the assignment to hard or to easy? What was too hard or what was too easy**
 
-<!-- TODO: Fill out this question -->
+<!-- In the first attempt it did not go as smoothly as planned, which i modified after -->
 
 **For what part of the assignment did you need to do some research? (for example Google search)**
 
-<!-- TODO: Fill out this question -->
+<!-- I had to search for the table elements, first attempted with a list but got help from my classmate to the <th>, <tr> and <td> table elements. -->
 
 **How much time did you approximately spend on this assignment (excluding time of report)?**
 
-<!-- TODO: Fill out this question -->
+<!-- 1 hour -->
 
 **Is there any code you copied from someone else or from the Internet? Provide the source here (author, website, ...). Also explain what you changed to the source code.**
 
-<!-- TODO: Fill out this question -->
+<!-- I used a table construct similar to that found on the SoloLearn website  -->
 
 **Is there a piece of code that you are not satisfied with. Place it here and describe what you think is wrong with it.**
 
-<!-- TODO: Fill out this question -->
+<!-- Not for this excersise-->
 
 ## Need to knows and remarks
 
