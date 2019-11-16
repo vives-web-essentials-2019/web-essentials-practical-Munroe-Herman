@@ -1,6 +1,6 @@
 # Web Essentials: Exercises and Assignments
 
-**Name**: <!-- TODO: fill in your full name here, firstname and lastname -->
+**Name**: <!-- Munroe Herman -->
 
 **URL**: <!-- TODO: paste the full netlify URL to the solution of this exercise  -->
 
@@ -20,8 +20,8 @@ In order to *[get started](./docs/get-started.md)*, *[commit changes](./docs/com
 
 Finished | Exercise | Difficulty
 ---------|----------|---------
-:x: | [Boring table](01-html-and-css/simple-table/README.md) | :star:
-:x: | [Landing page](01-html-and-css/landing-page/README.md) | :star:
+: ✔️: | [Boring table](01-html-and-css/simple-table/README.md) | :star:
+: ✔️: | [Landing page](01-html-and-css/landing-page/README.md) | :star:
 :x: | [Simple layout](01-html-and-css/simple-layout/README.md) | :star:
 :x: | [OXO](01-html-and-css/oxo-grid/README.md) | :star:
 :x: | [Popup](01-html-and-css/popup/README.md) | :star:
