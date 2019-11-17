@@ -20,10 +20,10 @@ In order to *[get started](./docs/get-started.md)*, *[commit changes](./docs/com
 
 Finished | Exercise | Difficulty
 ---------|----------|---------
-: ✔️: | [Boring table](01-html-and-css/simple-table/README.md) | :star:
-: ✔️: | [Landing page](01-html-and-css/landing-page/README.md) | :star:
-:x: | [Simple layout](01-html-and-css/simple-layout/README.md) | :star:
-:✔️: | [OXO](01-html-and-css/oxo-grid/README.md) | :star:
+:✔️:| [Boring table](01-html-and-css/simple-table/README.md) | :star:
+:✔️:| [Landing page](01-html-and-css/landing-page/README.md) | :star:
+:✔️:| [Simple layout](01-html-and-css/simple-layout/README.md) | :star:
+:✔️:| [OXO](01-html-and-css/oxo-grid/README.md) | :star:
 :x: | [Popup](01-html-and-css/popup/README.md) | :star:
 :x: | [Class schedule](01-html-and-css/schedule/README.md) | :star::star:
 :x: | [Topbar icons](01-html-and-css/topbar-icons/README.md) | :star::star:
