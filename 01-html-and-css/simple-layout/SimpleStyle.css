@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 body{
     background-color:#00a0b0;
     margin-top:10px;
@@ -37,44 +37,4 @@ footer{
     text-align: center;
     padding:8px;
     background-color: #cc333f;
-=======
-body{
-    background-color:#00a0b0;
-    margin-top:10px;
-    margin-left:100px;
-    margin-right:100px;
-}
-header{
-    text-align:left;
-    background-color:#edc951;
-    padding:10px;
-    height:100px;
-}
-aside{
-    float:left;
-    background-color: #6A4A3F;
-    padding:50px;
-}
-aside.li{
-    text-align: left;
-}
-main{
-    padding:10px;
-    display:flex;
-    background-color:#e76241 ;
-    flex-flow: wrap;
-}
-.Title1{
-background-color:#CA343D;
-margin:10px;
-}
-.Title2{
-    background-color:#CA343D ;
-    margin:10px;
-}
-footer{
-    text-align: center;
-    padding:8px;
-    background-color: #cc333f;
->>>>>>> b8486a2d0b36b039fd87aa95ae24cc28fcc7af21
 }
