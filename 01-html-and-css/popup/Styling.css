@@ -1,0 +1,83 @@
+html{
+    padding:250px;
+}
+
+body{
+    background-color: #666666;
+    font-family:Calibri;
+}
+.Popup{
+    border-style:solid;
+    border-radius: 15px;
+    box-shadow: lightgrey;
+    border-width: 0px;
+
+}
+
+h1{
+    background-color:#222222;
+    color: #d8d8d8;
+    justify-content: space-around;
+    margin:0px;
+    padding:20px;
+    border-bottom-left-radius: none;
+    border-bottom-right-radius: none;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.button1{
+    align-items: flex-end;
+    background-color:#222222;
+    color:#d8d8d8;
+    border-style: hidden;
+    font-size:20px;
+    font-weight:bold;
+}
+
+p{
+    background-color:#fdfdfd;
+    margin:0px;
+    padding:30px;
+    font-size:22px;
+
+}
+footer{
+    padding:48px;
+    margin:0px;
+    background-color: #ececec;
+    border-bottom-left-radius: inherit;
+    border-bottom-right-radius: inherit;
+    text-align:center;
+
+}
+button{
+    float:right;
+    
+}
+.Ok{
+    margin-top:0px;
+    margin-bottom: 0px;
+    margin-right:10px;
+    background-color: #49a79e;
+    border-style:solid;
+    border-radius: 4px;
+    border-color:#49a79e;
+    color:#f1fcfd ;
+    padding:8px;
+    font-size:15px;
+    font-weight:bold;
+
+}
+.cancel{
+    margin-top:0px;
+    margin-bottom: 0px;
+    background-color: #f1fcfd;
+    border-style: solid;
+    border-color:#49a79e;
+    border-radius:4px;
+    color:#49a79e;
+    padding:8px;
+    font-size:15px;
+    font-weight: bold;
+    
+}
