@@ -1,13 +1,9 @@
 # Web Essentials: Exercises and Assignments
 
-<<<<<<< HEAD
 ![image](../../workflows/Linter/badge.svg)
 
 
 **Name**: <!-- Munroe Herman -->
-=======
-**Name**: Munroe Herman
->>>>>>> f153f1b922ee1978cd73f5abc8b229e9e8b72d28
 
 **URL**: <!-- TODO: paste the full netlify URL to the solution of this exercise  -->
 
