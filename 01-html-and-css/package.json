@@ -24,5 +24,8 @@
         "excludedFiles": "node_modules/"
       }
     ]
+  },
+  "devDependencies": {
+    "eslint-plugin-flowtype": "^5.2.0"
   }
 }
