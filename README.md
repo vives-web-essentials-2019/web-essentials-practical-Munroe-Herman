@@ -1,6 +1,6 @@
 # Web Essentials: Exercises and Assignments
 
-**Name**: <!-- Munroe Herman -->
+**Name**: Munroe Herman
 
 **URL**: <!-- TODO: paste the full netlify URL to the solution of this exercise  -->
 
