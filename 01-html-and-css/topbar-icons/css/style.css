@@ -1,8 +1,33 @@
 * {
-  color: aqua;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
 }
 
-body {
-  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-  background-color: yellowgreen;
+.main {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(to right, yellow, green);
+}
+
+nav {
+  width: 80%;
+  position: sticky;
+  margin: 20px auto;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+}
+
+.links {
+  flex: 1;
+  text-align: right;
+}
+
+.links ul li {
+  list-style: none;
+  display: inline-block;
+  margin: 0 20px;
 }
